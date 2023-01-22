@@ -96,3 +96,8 @@ figure {
     text-align: center;
     text-transform: uppercase;
 }
+
+/*-----------MAp----------*/
+[class*="ground-pane"]  {
+  filter: grayscale(1);
+}
